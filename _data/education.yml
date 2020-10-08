@@ -1,0 +1,8 @@
+# Education Template
+- name: SNTU
+  dates: 2012
+  qualification:
+#  quote: >
+#    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+     Master degree, shipbuilding engineer
